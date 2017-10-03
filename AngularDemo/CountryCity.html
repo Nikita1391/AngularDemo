@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html ng-app="demoapp">
+<head>
+    <title></title>
+
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/citycountry.js"></script>
+    <link href="countrystyles.css" rel="stylesheet" />
+</head>
+<body ng-controller="CountryController">
+    <span ng-repeat="country in countries">
+        <button ng-click="scrollto(country.Name)">{{country.Name}}</button>
+
+
+    </span>
+    <br /><br />
+
+    <div>
+
+        <fieldset ng-repeat="country in countries" id="{{country.Name}}">
+
+            <legend>{{country.Name}}</legend>
+            <ul>
+                <li ng-repeat="city in country.cities">
+                    {{city.Name}}
+
+                </li>
+            </ul>
+        </fieldset>
+
+    </div>
+
+</body>
+</html>

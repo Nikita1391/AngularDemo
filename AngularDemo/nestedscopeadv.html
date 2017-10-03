@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html ng-app="Demo">
+<head>
+    <title></title>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/nestedadvcontroller.js"></script>
+</head>
+<body>
+
+    <div ng-controller="countrycontroller as counctrl">
+        {{counctrl.Name}}
+        <div ng-controller="statecontroller as statectrl">
+           {{counctrl.Name}} -{{statectrl.Name}}
+            <div ng-controller="citycontroller as cityctrl">
+              {{counctrl.Name}} -{{statectrl.Name}}- {{cityctrl.Name}}
+
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

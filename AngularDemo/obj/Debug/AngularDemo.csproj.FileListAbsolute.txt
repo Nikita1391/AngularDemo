@@ -1,0 +1,12 @@
+M:\rahul_14.2_mainline_new\pdms009\CoreExt\Presentation\AngularDemo\AngularDemo\bin\AngularDemo.dll.config
+M:\rahul_14.2_mainline_new\pdms009\CoreExt\Presentation\AngularDemo\AngularDemo\bin\AngularDemo.dll
+M:\rahul_14.2_mainline_new\pdms009\CoreExt\Presentation\AngularDemo\AngularDemo\bin\AngularDemo.pdb
+M:\rahul_14.2_mainline_new\pdms009\CoreExt\Presentation\AngularDemo\AngularDemo\obj\Debug\AngularDemo.csprojResolveAssemblyReference.cache
+M:\rahul_14.2_mainline_new\pdms009\CoreExt\Presentation\AngularDemo\AngularDemo\obj\Debug\AngularDemo.dll
+M:\rahul_14.2_mainline_new\pdms009\CoreExt\Presentation\AngularDemo\AngularDemo\obj\Debug\AngularDemo.pdb
+C:\Users\nikita.wadhwani\Desktop\AngularDemo\AngularDemo\bin\AngularDemo.dll.config
+C:\Users\nikita.wadhwani\Desktop\AngularDemo\AngularDemo\bin\AngularDemo.dll
+C:\Users\nikita.wadhwani\Desktop\AngularDemo\AngularDemo\bin\AngularDemo.pdb
+C:\Users\nikita.wadhwani\Desktop\AngularDemo\AngularDemo\obj\Debug\AngularDemo.dll
+C:\Users\nikita.wadhwani\Desktop\AngularDemo\AngularDemo\obj\Debug\AngularDemo.pdb
+C:\Users\nikita.wadhwani\Desktop\AngularDemo\AngularDemo\obj\Debug\AngularDemo.csprojResolveAssemblyReference.cache

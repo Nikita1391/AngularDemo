@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html ng-app="Demo">
+<head>
+    <title></title>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/routescopecontroller.js"></script>
+</head>
+<body>
+    <div ng-controller="redcolourcontroller">
+
+        Root Scope Colour:{{rootScopeColour}}<br />
+        Red Colour Controller:{{redcolour}}<br />
+        Green Colour Controller:{{greencolour}}
+
+    </div>
+
+    <div ng-controller="greencolourcontroller">
+
+        Root Scope Colour:{{rootScopeColour}}<br />
+        Red Colour Controller:{{greencolour}} <br />
+        Green Colour Controller:{{redcolour}}
+
+    </div>
+
+</body>
+</html>
